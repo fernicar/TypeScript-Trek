@@ -4,8 +4,8 @@
 
 ## Screenshots
 
-**Main Window:**
-![Screenshot](images/app_capture0.png)
+**Main Window:**  
+![Screenshot:](./images/app_capture0.png)
 
 ## Description
 **TypeScript-Trek** is a browser-based, retro-styled tactical space combat game inspired by the classic 1971 *Star Trek* text game. The player commands the USS Enterprise on a mission to purge the galaxy of Klingon warships within a strict time limit. 

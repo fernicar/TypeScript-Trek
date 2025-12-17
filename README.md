@@ -171,7 +171,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 *   Special thanks to ScuffedEpoch for the [TINS](https://github.com/ScuffedEpoch/TINS) methodology and the initial example.
-*   Thanks to Eric Fredricksen and the original [Progress Quest Web](https://bitbucket.org/grumdrig/pq-web) project contributors for the original game – you are a legend.
 *   **AI Assistance:**
     *   Thanks to the AI assistants used during development for their contributions.
     *   Tested with Gemini-3-pro-preview from Google AI Studio App development.

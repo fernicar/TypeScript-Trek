@@ -1,0 +1,5 @@
+{
+  "name": "TypeScript-Trek",
+  "description": "A retro text-based strategy game inspired by Star Trek. Command the USS Enterprise, hunt Klingons, and save the galaxy within the time limit.",
+  "requestFramePermissions": []
+}
